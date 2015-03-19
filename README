@@ -1,0 +1,9 @@
+Instructions to run::
+
+1. Compile the program from root directory.
+
+	make test.out
+	
+2. Run the program from the 'bin' folder.
+
+	./test.out
